@@ -2,7 +2,7 @@ from os import environ
 class Config(object):
     API_ID = "9821348"
     API_HASH = "c03b8a9b7724e7acd4635cf9e9a33b10"
-    BOT_TOKEN = "5006516736:AAGhNGMsDKKoIl2hSnxiwsiNNiBl5IFSQnc"
+    BOT_TOKEN = "1775366786:AAGASboA1_UbsEleF9Lgpxu7nKhA5HT9mrg"
     STRING_SESSION = "1AZWarzoBuydNVtKKs9YTgKuz2h4SDgq_dn53v2hKoFIjCi8_qZlGz4UvX6xC_ha-PUbWbWxn6lELikEV3QhA-eMPU6MS7hgFPAkxGpU30D3da18TnFfmRsnIydv-0ZPxx-auRNAdv5cQNhrZ2IgaCRhAonHCZuZHVBp5_Xk2iqzfbOqWD9xXS-9ty_oa3m-_NniYJj38akJD65Cypb6E8GdB330XevlaISzmJj4qSe-afZwFUPAXNa6EJun7wHpjsoIAcx4JqPPrmztvISs1QWNZNGblWrcpeRH66DjnIyEdoO5ts_SPyKFx26f8nJwLf5Pb-nsEWnJsi8TMidJGLqrwTuKEf1I="
     SUDO_USERS = "1169076058"
     COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "^/")
